@@ -1,1 +1,1 @@
-
+UNIX is a operating system that is able to allow its multiple users to have multiple tasks running at the same time, which is different from other systems. It was developed in the 70s by scientist. Different version of this program exist, because it was licensed out to many companies.
